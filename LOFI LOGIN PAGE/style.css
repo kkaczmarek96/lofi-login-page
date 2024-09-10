@@ -108,3 +108,10 @@ body {
 }
 
 
+footer {
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+   position: absolute;
+   bottom: 0;
+}
+
